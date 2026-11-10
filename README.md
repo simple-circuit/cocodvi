@@ -10,6 +10,8 @@ Just drop the UF2 files into the Pico processors and build the card.
 
 Gerber and drill files are supplied if you are interested in exploring this project.
 
+They are in the hstx_coco_dvi-B_Cu.zip file.
+
 ![](./pcb.jpg)
 ![](./basic.jpg)
 ![](./trisine.jpg)
